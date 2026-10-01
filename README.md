@@ -12,7 +12,7 @@ To help marketing teams understand how their Meta ad campaigns perform and which
 ## 🖼️ Dashboard Preview
 
 ### Facebook Page
-![Facebook Dashboard](images/facebook_dashboard.png)
+![Facebook Dashboard](imagesfacebook_dashboard.PNG)
 
 ### Instagram Page
 ![Instagram Dashboard](images/instagram_dashboard.png)
