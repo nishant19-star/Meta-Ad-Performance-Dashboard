@@ -15,7 +15,7 @@ To help marketing teams understand how their Meta ad campaigns perform and which
 ![Facebook Dashboard](imagesfacebook_dashboard.PNG)
 
 ### Instagram Page
-![Instagram Dashboard](images/instagram_dashboard.png)
+![Instagram Dashboard](imagesinstagram_dashboard.PNG)
 
 ---
 
